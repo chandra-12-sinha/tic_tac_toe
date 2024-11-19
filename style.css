@@ -30,6 +30,7 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0,0.1rem);
     font-size:8vmin ;
     color:#a2202f ;
+    background-color: #e5eec0;
 }
 .Reset_button{
     padding: 1rem;
