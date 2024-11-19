@@ -40,3 +40,15 @@ body{
     border-radius: 2rem;
     border: none;
 }
+
+#msg{
+     color:  #e5eec0;
+     font-size: 8vmin;
+}
+.msg-con{
+    height: 30vmin;
+    
+}
+.hide{
+    display: none;
+}
