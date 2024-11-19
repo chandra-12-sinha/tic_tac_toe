@@ -39,6 +39,7 @@ body{
     color: white;
     border-radius: 2rem;
     border: none;
+    cursor: pointer;
 }
 
 #msg{
@@ -46,7 +47,7 @@ body{
      font-size: 8vmin;
 }
 .msg-con{
-    height: 30vmin;
+    height: 15vmin;
     
 }
 .hide{
